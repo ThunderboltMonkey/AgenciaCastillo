@@ -1,0 +1,15 @@
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\bin\Debug\AgenciaCastillo.exe.config
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\bin\Debug\AgenciaCastillo.exe
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\bin\Debug\AgenciaCastillo.pdb
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.csprojResolveAssemblyReference.cache
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Properties.Resources.resources
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.csproj.GenerateResource.Cache
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.exe
+c:\users\monkey\documents\visual studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.pdb
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Inicio.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Vender.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Autonuevo.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Seminuevo.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Menú.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Financiamiento.resources
+C:\Users\Monkey\Documents\Visual Studio 2013\Projects\AgenciaCastillo\AgenciaCastillo\obj\Debug\AgenciaCastillo.Negociacion.resources
